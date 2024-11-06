@@ -1,0 +1,21 @@
+.flex {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(138, 144, 228);
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+    /* height: 60px; */
+}
+
+.navbarButtons button{
+    margin: 10px;
+}
+
+.search,.bell,.user {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
